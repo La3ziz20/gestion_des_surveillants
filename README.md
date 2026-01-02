@@ -34,7 +34,7 @@ Une application Spring Boot pour la gestion des surveillants d'examens.
     ```
 
 3.  Accéder à l'application (API) :
-    - L'application démarre par défaut sur `http://localhost:8080`.
+    - L'application démarre par défaut sur `http://localhost:8096`.
     - Des données de test sont chargées au démarrage.
 
 ## Structure du projet
